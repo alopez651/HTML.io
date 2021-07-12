@@ -1,2 +1,2 @@
-# HTML.io
+# HTML.io / JAVASCRIPT / CSS
 HTML projects 
