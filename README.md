@@ -1,2 +1,2 @@
 # HTML.io / JAVASCRIPT / CSS
-HTML projects 
+HTML/CSS/JAVASCRIPT projects from previous class.
